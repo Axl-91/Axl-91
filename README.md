@@ -9,7 +9,7 @@
 </p>
 
 <p align = "center">
- <img src="https://komarev.com/ghpvc/?username=axlrott&color=blueviolet">
+ <img src="https://komarev.com/ghpvc/?username=Axl-91&color=blueviolet">
 </p> 
 
 
@@ -39,19 +39,3 @@
   <img src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white"/>
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
-
-
-<h2 align="left">Stats:</h2>
-
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=axlrott&count_private=true&show_icons=true&theme=dark&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=axlrott&count_private=true&theme=dark">
-</p>
-
-<p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=axlrott&show_icons=true&locale=en&layout=compact&theme=dark&line_height=0" />
-</p> 
-
-[![AxlRott's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=axlrott&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
