@@ -39,3 +39,7 @@
   <img src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white"/>
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
+
+<p align="center">
+    <img src="https://leetcard.jacoblin.cool/AxlRott?ext=heatmap">
+</p>
