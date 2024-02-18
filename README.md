@@ -40,6 +40,6 @@
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
-<p align="center">
-    <img src="https://leetcard.jacoblin.cool/AxlRott?ext=heatmap">
-</p>
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/AxlRott?ext=heatmap"/>
+</div>
