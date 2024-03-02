@@ -40,8 +40,8 @@
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
-<h2 align="left">LeetCode Stats: </h2>
+<h2 align="left">Stats: </h2>
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/AxlRott?ext=heatmap"/>
+  <img src="https://leetcard.jacoblin.cool/AxlRott"/>
 </div>
