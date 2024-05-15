@@ -41,20 +41,20 @@
   </br>
   
   <a href="https://git.io/streak-stats">
-    <img src=https://streak-stats.demolab.com/?user=Axl-91&&theme=tokyonight&&hide_border=true&card_width=495>
+    <img src=https://streak-stats.demolab.com/?user=Axl-91&&theme=tokyonight&&hide_border=true&card_width=495&count_private=true>
   </a>
    
   </br>
   </br>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Axl-91&hide_border=true&langs_count=5&show_icons=true&card_width=495&theme=tokyonight&hide=javascript,html,css,Makefile>
+    <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Axl-91&hide_border=true&show_icons=true&card_width=495&theme=tokyonight&hide=html,css,Makefile&count_private=true>
   
   </br>
   </br>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Axl-91&hide_border=true&show_icons=true&theme=tokyonight&card_width=495&rank_icon=github />
+    <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Axl-91&hide_border=true&show_icons=true&theme=tokyonight&card_width=495&rank_icon=github&count_private=true />
   </a>
     
 </p>
