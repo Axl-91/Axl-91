@@ -41,14 +41,14 @@
   </br>
   
   <a href="https://git.io/streak-stats">
-    <img src=https://streak-stats.demolab.com/?user=Axl-91&&theme=tokyonight&&hide_border=true&card_width=495&count_private=true>
+    <img src=https://streak-stats.demolab.com/?user=Axl-91&&theme=tokyonight&&hide_border=true&card_width=495&count_private=true />
   </a>
    
   </br>
   </br>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Axl-91&hide_border=true&card_width=495&theme=tokyonight&hide=html,css,Makefile&count_private=true>
+    <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Axl-91&hide_border=true&card_width=495&theme=tokyonight&hide=html,css,Makefile&count_private=true />
   
   </br>
   </br>
