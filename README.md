@@ -20,9 +20,9 @@
 	  <img src="https://skillicons.dev/icons?i=elixir,rust,go,c,cpp,java,laravel,py,latex,md,postgres,github,docker,linux,vscode" />
 	</a>
 	<br>
-	<img width="55" src="https://zen-browser.app/_astro/app-icon.B4cquOFH_TcmbB.webp" />
-	<img width="55" src="https://avatars.githubusercontent.com/u/66235900?s=200&v=4" />
-	<img width="55" src="https://zellij.dev/img/logo.png" />
+	<a href="https://zen-browser.app/"><img width="55" src="https://zen-browser.app/_astro/app-icon.B4cquOFH_TcmbB.webp" /></a>
+	<a href="https://helix-editor.com/"><img width="55" src="https://avatars.githubusercontent.com/u/66235900?s=200&v=4" /></a>
+	<a href="https://zellij.dev/"><img width="55" src="https://zellij.dev/img/logo.png" /></a>
 </div>
 
 <h2 align="left">Stats: </h2>
