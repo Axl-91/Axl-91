@@ -20,6 +20,7 @@
 	  <img src="https://skillicons.dev/icons?i=elixir,rust,go,c,cpp,java,laravel,py,latex,md,postgres,github,docker,linux,vscode" />
 	</a>
 	<br>
+	<a href="https://fedoraproject.org/"><img width="55" src="https://github.com/user-attachments/assets/68a89fbf-eebd-44d7-b17a-e2dbde45dd78" /></a>
 	<a href="https://zen-browser.app/"><img width="55" src="https://zen-browser.app/_astro/app-icon.B4cquOFH_TcmbB.webp" /></a>
 	<a href="https://helix-editor.com/"><img width="55" src="https://avatars.githubusercontent.com/u/66235900?s=200&v=4" /></a>
 	<a href="https://zellij.dev/"><img width="55" src="https://zellij.dev/img/logo.png" /></a>
