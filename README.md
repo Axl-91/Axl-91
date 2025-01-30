@@ -17,7 +17,7 @@
 
 <div align="center">
 	<a href="https://skillicons.dev">
-	  <img src="https://skillicons.dev/icons?i=elixir,rust,go,c,cpp,java,laravel,py,latex,md,postgres,github,docker,linux,vscode" />
+	  <img src="https://skillicons.dev/icons?i=elixir,rust,c,cpp,go,laravel,java,py,rails,latex,md,postgres,github,docker,linux" />
 	</a>
 	<br>
 	<a href="https://fedoraproject.org/"><img width="55" src="https://github.com/user-attachments/assets/68a89fbf-eebd-44d7-b17a-e2dbde45dd78" /></a>
