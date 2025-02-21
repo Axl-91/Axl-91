@@ -30,9 +30,8 @@
 
 <p align="center">
   </br>
-  
   <a href="https://git.io/streak-stats">
-    <img src=https://streak-stats.demolab.com/?user=Axl-91&theme=tokyonight&card_width=495&date_format=n%2Fj%5B%2FY%5D&count_private=true />
+    <img src=https://github-readme-streak-stats-ecru-one.vercel.app/?user=Axl-91&theme=tokyonight&card_width=495&date_format=n%2Fj%5B%2FY%5D&count_private=true />
   </a>
    
   </br>
