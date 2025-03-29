@@ -38,7 +38,7 @@
   </br>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Axl-91&card_width=495&theme=tokyonight&hide=html,css,blade,Makefile&count_private=true />
+    <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Axl-91&langs_count=6&card_width=495&theme=tokyonight&hide=html,css,blade,Makefile,Dockerfile&count_private=true />
   
   </br>
   </br>
