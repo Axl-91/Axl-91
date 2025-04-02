@@ -21,9 +21,10 @@
 	</a>
 	<br>
 	<a href="https://fedoraproject.org/"><img width="55" src="https://github.com/user-attachments/assets/68a89fbf-eebd-44d7-b17a-e2dbde45dd78" /></a>
-	<a href="https://zen-browser.app/"><img width="55" src="https://zen-browser.app/_astro/app-icon.B4cquOFH_TcmbB.webp" /></a>
+	<a href="https://zen-browser.app/"><img width="55" src="https://github.com/user-attachments/assets/44086966-ae1a-4dc5-b946-f962471372af" /></a>
 	<a href="https://helix-editor.com/"><img width="55" src="https://avatars.githubusercontent.com/u/66235900?s=200&v=4" /></a>
 	<a href="https://zellij.dev/"><img width="55" src="https://zellij.dev/img/logo.png" /></a>
+
 </div>
 
 <h2 align="left">Stats: </h2>
