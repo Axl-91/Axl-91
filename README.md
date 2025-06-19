@@ -57,5 +57,7 @@
 
 </br>
 <div align="center">
-  <img src="https://forthebadge.com/images/badges/works-on-my-machine.svg"/>
+  <kbd>
+    <img src="https://forthebadge.com/images/badges/works-on-my-machine.svg"/>
+  </kbd>
 </div>
