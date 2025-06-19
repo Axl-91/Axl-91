@@ -56,7 +56,6 @@
 </div>
 
 </br>
-
 <div align="center">
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
+  <img src="https://forthebadge.com/images/badges/works-on-my-machine.svg"/>
 </div>
