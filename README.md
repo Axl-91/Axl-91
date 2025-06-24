@@ -39,13 +39,13 @@
   </br>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Axl-91&langs_count=6&card_width=495&theme=tokyonight&hide=html,css,blade,Makefile,Dockerfile&count_private=true />
+    <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Axl-91&langs_count=6&card_width=495&theme=tokyonight&hide=html,css,blade,Makefile,Dockerfile&count_private=true />
   
   </br>
   </br>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Axl-91&show_icons=true&theme=tokyonight&card_width=495&rank_icon=github&count_private=true />
+    <img src=github-readme-stats.vercel.app/api?username=Axl-91&show_icons=true&theme=tokyonight&card_width=495&rank_icon=github&count_private=true />
   </a>
     
 </p>
