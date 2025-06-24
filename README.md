@@ -45,7 +45,7 @@
   </br>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src=github-readme-stats.vercel.app/api?username=Axl-91&show_icons=true&theme=tokyonight&card_width=495&rank_icon=github&count_private=true />
+    <img src=https://github-readme-stats.vercel.app/api?username=Axl-91&show_icons=true&theme=tokyonight&card_width=495&rank_icon=github&count_private=true />
   </a>
     
 </p>
