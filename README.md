@@ -38,16 +38,9 @@
   </br>
   </br>
   
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Axl-91&langs_count=8&card_width=495&theme=tokyonight&hide=html,css,blade,Makefile,Dockerfile&count_private=true&layout=compact />
-  
-  </br>
-  </br>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src=https://github-readme-stats.vercel.app/api?username=Axl-91&show_icons=true&theme=tokyonight&card_width=495&rank_icon=github&count_private=true />
-  </a>
-    
+   </a>
 </p>
 
 <h2></h2>
