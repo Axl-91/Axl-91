@@ -43,12 +43,6 @@
    </a>
 </p>
 
-<h2></h2>
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/AxlRott"/>
-</div>
-
 ---
 
 <a href="https://tinyurl.com/yrz67u5j">
