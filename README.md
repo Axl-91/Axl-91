@@ -43,6 +43,14 @@
    </a>
 </p>
 
+<p align="center">
+	<a href="https://leetcode.com/AxlRott">
+		<img align="center" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ff8c00&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAxlRott&logo=leetcode&logoColor=yellow" />
+	</a>
+</p>
+
+
+
 ---
 
 <a href="https://tinyurl.com/yrz67u5j">
