@@ -32,24 +32,31 @@
 <p align="center">
   </br>
   <a href="https://git.io/streak-stats">
-    <img src=https://github-readme-streak-stats-ecru-one.vercel.app/?user=Axl-91&theme=tokyonight&card_width=495&date_format=n%2Fj%5B%2FY%5D&count_private=true />
+    <img 
+		src=https://github-readme-streak-stats-ecru-one.vercel.app/?user=Axl-91&theme=tokyonight&card_width=495&date_format=n%2Fj%5B%2FY%5D&count_private=true
+	/>
   </a>
    
   </br>
   </br>
   
    <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src=https://github-readme-stats-eta-eight-12.vercel.app/api/top-langs/?username=Axl-91&langs_count=10&card_width=495&theme=tokyonight&hide=html,css,blade,Makefile,Dockerfile&count_private=true />
+   	<img 
+		align="center" 
+		src=https://github-readme-stats-eta-eight-12.vercel.app/api/top-langs/?username=Axl-91&langs_count=10&card_width=495&theme=tokyonight&hide=html,css,blade,Makefile,Dockerfile&count_private=true
+	/>
    </a>
 </p>
 
 <p align="center">
 	<a href="https://leetcode.com/AxlRott">
-		<img align="center" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ff8c00&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAxlRott&logo=leetcode&logoColor=yellow" />
+		<img 
+			align="center" 
+			src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=AD280E&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAxlRott&logo=leetcode&logoColor=yellow"
+			style="border: 3px dashed #0066cc; border-radius: 8px;"
+		/>
 	</a>
 </p>
-
-
 
 ---
 
