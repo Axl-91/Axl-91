@@ -17,7 +17,7 @@
 
 <div align="center">
 	<a href="https://skillicons.dev">
-	  <img src="https://skillicons.dev/icons?i=elixir,rust,c,cpp,typescript,ruby,php,go,haskell,java,zig,nim,vlang&perline=16" />
+	  <img src="https://skillicons.dev/icons?i=elixir,rust,c,cpp,typescript,ruby,php,go,py,haskell,java,nim,vlang&perline=16" />
 	</a>
 	<a href="https://skillicons.dev">
 	  <img src="https://skillicons.dev/icons?i=nest,nuxt,next,rails,laravel,postgres,redis,docker,linux&perline=16" />
