@@ -17,10 +17,10 @@
 
 <div align="center">
 	<a href="https://skillicons.dev">
-	  <img src="https://skillicons.dev/icons?i=elixir,rust,c,cpp,typescript,ruby,php,go,py,haskell,java,nim,vlang&perline=16" />
+	  <img src="https://skillicons.dev/icons?i=elixir,rust,c,cpp,typescript,ruby,php,go,py,haskell,java,nim,vlang&perline=13" />
 	</a>
 	<a href="https://skillicons.dev">
-	  <img src="https://skillicons.dev/icons?i=nest,nuxt,next,rails,laravel,postgres,redis,docker,linux&perline=16" />
+	  <img src="https://skillicons.dev/icons?i=nest,nuxt,next,rails,laravel,postgres,redis,docker,linux&perline=9" />
 	</a>
 	<br>
 	<a href="https://fedoraproject.org/"><img width="55" src="https://github.com/user-attachments/assets/68a89fbf-eebd-44d7-b17a-e2dbde45dd78" /></a>
