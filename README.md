@@ -62,7 +62,8 @@
 </p>
 
 ---
-
-<a href="https://tinyurl.com/yrz67u5j">
-	<img width="2136" height="416" alt="Axl3" src="https://github.com/user-attachments/assets/862f29c3-34a8-414c-a602-b8883a553115" />
-</a>
+<p align="center">
+	<a href="https://tinyurl.com/yrz67u5j">
+		<img width="40%" alt="Axl" src="https://github.com/axl-91/axl-91/blob/main/assets/Axl.png" />
+	</a>
+</p>
