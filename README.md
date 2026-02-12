@@ -4,7 +4,7 @@
 
 <p align="center">
   <kbd>
-    <img align="center" alt="wavingPikachu" width="400" src="https://github.com/axl-91/axl-91/blob/main/assets/hello-pikachu.gif">
+    <img align="center" alt="wavingPikachu" width="100%" src="https://github.com/axl-91/axl-91/blob/main/assets/hello-pikachu.gif">
   </kbd>
 </p>
 
