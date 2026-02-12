@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://github.com/axlrott/axlrott/blob/main/assets/welcome-profile.png">
+  <img alt="welcome" src="https://github.com/axl-91/axl-91/blob/main/assets/welcome-profile.png">
 </p>
 
 <p align="center">
   <kbd>
-    <img align="center" alt="waving" width="400" src="https://github.com/axlrott/axlrott/blob/main/assets/hello-pikachu.gif">
+    <img align="center" alt="wavingPikachu" width="400" src="https://github.com/axl-91/axl-91/blob/main/assets/hello-pikachu.gif">
   </kbd>
 </p>
 
