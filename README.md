@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="welcome" src="https://github.com/axl-91/axl-91/blob/main/assets/welcome-profile.png">
+  <img alt="welcome" src="https://github.com/axl-91/axl-91/blob/main/assets/welcome-profile.gif">
 </p>
 
 <p align="center">
