@@ -52,7 +52,7 @@
 </p>
 
 <p align="center">
-	<a href="https://leetcode.com/u/AxlRott">
+	<a href="https://leetcode.com/u/AxlRott/">
 		<img 
 			align="center" 
 			src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=AD280E&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAxlRott&logo=leetcode&logoColor=yellow"
