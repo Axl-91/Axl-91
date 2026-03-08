@@ -36,7 +36,7 @@
   </br>
   <a href="https://git.io/streak-stats">
     <img 
-		src=https://github-readme-streak-stats-ecru-one.vercel.app/?user=Axl-91&theme=tokyonight&card_width=495&date_format=n%2Fj%5B%2FY%5D&count_private=true
+		src=https://github-readme-streak-stats-ecru-one.vercel.app/?user=Axl-91&theme=tokyonight&card_width=495&date_format=j%2Fn%5B%2FY%5D&count_private=true
 	/>
   </a>
    
