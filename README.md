@@ -46,7 +46,7 @@
    <a href="https://github.com/anuraghazra/github-readme-stats">
    	<img 
 		align="center" 
-		src=https://github-readme-stats-eta-eight-12.vercel.app/api/top-langs/?username=Axl-91&langs_count=10&layout=compact&card_width=495&theme=tokyonight&hide=html,css,blade,Makefile,Dockerfile&count_private=true
+		src=https://github-readme-stats-eta-eight-12.vercel.app/api/top-langs/?username=Axl-91&langs_count=10&layout=compact&card_width=495&theme=tokyonight&hide=html,css,blade&count_private=true
 	/>
    </a>
 </p>
