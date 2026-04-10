@@ -24,6 +24,7 @@
 	</a>
 	<br>
 	<a href="https://fedoraproject.org/"><img width="55" src="https://github.com/user-attachments/assets/68a89fbf-eebd-44d7-b17a-e2dbde45dd78" /></a>
+	<a href="https://github.com/niri-wm/niri"><img width="55" src="https://github.com/user-attachments/assets/75473556-05d5-4f82-a8c7-28bb219104e8" /></a>
 	<a href="https://zen-browser.app/"><img width="55" src="https://github.com/user-attachments/assets/44086966-ae1a-4dc5-b946-f962471372af" /></a>
 	<a href="https://helix-editor.com/"><img width="55" src="https://avatars.githubusercontent.com/u/66235900?s=200&v=4" /></a>
 	<a href="https://zellij.dev/"><img width="55" src="https://zellij.dev/img/logo.png" /></a>
